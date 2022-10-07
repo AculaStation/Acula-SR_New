@@ -9,6 +9,7 @@
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
+#include "modules\single-file-changes\insulated-glove-tweak.dm"
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
