@@ -9,6 +9,8 @@
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
+#include "modules\single-file-changes\insulated-glove-tweak.dm"
+#include "modules\single-file-changes\species_paydays.dm"
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
