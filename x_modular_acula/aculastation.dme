@@ -11,6 +11,7 @@
 // BEGIN_PREFERENCES
 #include "modules\single-file-changes\insulated-glove-tweak.dm"
 #include "modules\single-file-changes\species_paydays.dm"
+#include "modules\single-file-changes\disable-ERP.dm"
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
