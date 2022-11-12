@@ -544,7 +544,7 @@
 	icon_state = "plushie_dan"
 
 //Donation reward for KLB100
-/obj/item/toy/plush/skyrat/plushie_jeanne
+/obj/item/toy/plush/skyrat/fox/plushie_jeanne
 	name = "masked roboticist plushie"
 	desc = "A familiar snow white Vulpkanin plushie. This one appears to be wearing a mask obscuring their face."
 	icon_state = "plushie_jeanne"
@@ -556,3 +556,15 @@
 	name = "handsome chef plushie"
 	desc = "A need to cook only rivaled by a hunger for fox tail."
 	icon_state = "plushie_azyre"
+
+//Donation reward for Razurath
+/obj/item/toy/plush/skyrat/plushie_razurath
+	name = "science shark plushie"
+	desc = "A determined scientist with a hint of mischief in her smile."
+	icon_state = "plush_scishark"
+
+//Donation reward for October23
+/obj/item/toy/plush/skyrat/plushie_elofy
+	name = "bumbling wolfgirl plushie"
+	desc = "A white-haired wolfgirl in a stylish red security skirt. Despite her scary cybernetic arm, she is soft to hug and only wishes to be praised and comforted."
+	icon_state = "plush_lonie"
